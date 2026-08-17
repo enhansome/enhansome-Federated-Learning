@@ -349,7 +349,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9936
+            "stars": 9937
           }
         },
         {
@@ -397,7 +397,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9936
+            "stars": 9937
           }
         },
         {
@@ -436,7 +436,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:10:03Z",
+            "last_commit": "2026-08-17T06:51:53Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2447
@@ -453,7 +453,7 @@
             "last_commit": "2024-11-23T22:25:52Z",
             "owner": "facebookresearch",
             "repo": "CrypTen",
-            "stars": 1650
+            "stars": 1649
           }
         },
         {
@@ -593,7 +593,7 @@
             "last_commit": "2026-08-14T14:49:33Z",
             "owner": "epfml",
             "repo": "disco",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -846,10 +846,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38544
+            "stars": 38561
           }
         },
         {
@@ -950,7 +950,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:10:03Z",
+            "last_commit": "2026-08-17T06:51:53Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2447
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:36:04.982Z",
+    "last_updated": "2026-08-17T11:43:01.885Z",
     "original_repository": "ChanChiChoi/awesome-Federated-Learning",
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
     "enhanced_repository": "enhansome/enhansome-Federated-Learning",
