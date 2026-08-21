@@ -272,7 +272,7 @@
                 "last_commit": "2025-10-28T12:44:12Z",
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4059
+                "stars": 4061
               }
             },
             {
@@ -370,10 +370,10 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-19T13:00:48Z",
+            "last_commit": "2026-08-20T15:39:57Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9954
+            "stars": 9955
           }
         },
         {
@@ -421,10 +421,10 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-19T13:00:48Z",
+            "last_commit": "2026-08-20T15:39:57Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9954
+            "stars": 9955
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4059
+            "stars": 4061
           }
         },
         {
@@ -466,7 +466,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-20T01:21:35Z",
+            "last_commit": "2026-08-20T21:59:01Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2447
@@ -775,7 +775,7 @@
             "last_commit": "2023-06-01T17:06:57Z",
             "owner": "OpenMined",
             "repo": "PyVertical",
-            "stars": 223
+            "stars": 222
           }
         },
         {
@@ -901,7 +901,7 @@
             "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38586
+            "stars": 38591
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-20T01:21:35Z",
+            "last_commit": "2026-08-20T21:59:01Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2447
@@ -1080,7 +1080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:45:18.657Z",
+    "last_updated": "2026-08-21T11:44:10.151Z",
     "original_repository": "ChanChiChoi/awesome-Federated-Learning",
     "original_repository_id": 317710748,
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
