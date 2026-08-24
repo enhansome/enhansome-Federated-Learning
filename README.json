@@ -370,7 +370,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-20T15:39:57Z",
+            "last_commit": "2026-08-24T09:58:36Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9956
@@ -421,7 +421,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-20T15:39:57Z",
+            "last_commit": "2026-08-24T09:58:36Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9956
@@ -466,10 +466,10 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-23T02:28:48Z",
+            "last_commit": "2026-08-24T01:28:37Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
-            "stars": 2447
+            "stars": 2448
           }
         },
         {
@@ -901,7 +901,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38603
+            "stars": 38611
           }
         },
         {
@@ -1009,10 +1009,10 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-23T02:28:48Z",
+            "last_commit": "2026-08-24T01:28:37Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
-            "stars": 2447
+            "stars": 2448
           }
         },
         {
@@ -1080,7 +1080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:37:17.340Z",
+    "last_updated": "2026-08-24T11:45:24.534Z",
     "original_repository": "ChanChiChoi/awesome-Federated-Learning",
     "original_repository_id": 317710748,
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
