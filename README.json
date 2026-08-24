@@ -1,6 +1,177 @@
 {
   "items": [
     {
+      "description": "ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Methods; DP:Differential Privacy; MA:Model Aggregation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[7-] innovation-cat/Awesome-Federated-Machine-Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216189313,
+            "language": null,
+            "last_commit": "2024-05-30T21:21:42Z",
+            "owner": "innovation-cat",
+            "repo": "Awesome-Federated-Machine-Learning",
+            "stars": 2090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[1-] chaoyanghe/Awesome-Federated-Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276973067,
+            "language": null,
+            "last_commit": "2022-09-03T20:03:02Z",
+            "owner": "chaoyanghe",
+            "repo": "Awesome-Federated-Learning",
+            "stars": 2016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3] lokinko/Federated-Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305980541,
+            "language": null,
+            "last_commit": "2023-03-14T14:15:24Z",
+            "owner": "lokinko",
+            "repo": "Federated-Learning",
+            "stars": 1149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2] weimingwill/awesome-federated-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220796852,
+            "language": "Shell",
+            "last_commit": "2025-11-16T16:14:13Z",
+            "owner": "weimingwill",
+            "repo": "awesome-federated-learning",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8-] ZeroWangZY/federated-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182517179,
+            "language": null,
+            "last_commit": "2021-04-28T03:48:58Z",
+            "owner": "ZeroWangZY",
+            "repo": "federated-learning",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[5-] poga/awesome-federated-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220137189,
+            "language": null,
+            "last_commit": "2024-06-26T05:02:02Z",
+            "owner": "poga",
+            "repo": "awesome-federated-learning",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[4-] tushar-semwal/awesome-federated-computing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173286323,
+            "language": null,
+            "last_commit": "2023-08-01T04:26:34Z",
+            "owner": "tushar-semwal",
+            "repo": "awesome-federated-computing",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[11]huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329799302,
+            "language": null,
+            "last_commit": "2024-02-21T04:07:56Z",
+            "owner": "huweibo",
+            "repo": "Awesome-Federated-Learning-on-Graph-and-GNN-papers",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6-] timmers/awesome-federated-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175534501,
+            "language": null,
+            "last_commit": "2022-03-18T13:46:13Z",
+            "owner": "timmers",
+            "repo": "awesome-federated-learning",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[10-] albarqouni/Federated-Learning-In-Healthcare",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287336862,
+            "language": null,
+            "last_commit": "2020-09-21T12:15:58Z",
+            "owner": "albarqouni",
+            "repo": "Federated-Learning-In-Healthcare",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[9-] lee-man/federated-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190384671,
+            "language": null,
+            "last_commit": "2020-04-09T11:47:27Z",
+            "owner": "lee-man",
+            "repo": "federated-learning",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -259,6 +430,112 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Chaoyang He, Songze Li, Jinhyun So, Mi Zhang, Hongyi Wang, Xiaoyang Wang, Praneeth Vepakomma, Abhishek Singh, Hang Qiu, Li Shen, Peilin Zhao, Yan Kang, Yang Liu, Ramesh Raskar, Qiang Yang, Murali Annavaram, Salman Avestimehr .FedML: A Research Library and Benchmark for Federated Machine Learning",
+          "description": "[J]. arXiv preprint arXiv:2007.13518.[code:FedML-AI/FedML]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281519510,
+            "language": "Python",
+            "last_commit": "2025-10-28T12:44:12Z",
+            "owner": "FedML-AI",
+            "repo": "FedML",
+            "stars": 4062
+          }
+        }
+      ],
+      "title": "System Design"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[ICLR]Augenstein, Sean, et al. Generative Models for Effective ML on Private, Decentralized Datasets",
+          "description": "ArXiv Preprint ArXiv:1911.06679, 2019.[code:tensorflow/gan]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 184105548,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-16T14:29:47Z",
+            "owner": "tensorflow",
+            "repo": "gan",
+            "stars": 963
+          }
+        }
+      ],
+      "title": "Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ji S, Pan S, Long G, et al. Learning private neural language modeling with attentive aggregation",
+          "description": "[C]//2019 International Joint Conference on Neural Networks (IJCNN). IEEE, 2019: 1-8.[code:shaoxiongji/fed-att]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162122348,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:51Z",
+            "owner": "shaoxiongji",
+            "repo": "fed-att",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Natural language Processing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .Federated Visual Classification with Real-World Data Distribution",
+          "description": "[J]. arXiv preprint arXiv:2003.08082.[code:google-research/federated_vision_datasets]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        }
+      ],
+      "title": "Computer Vision"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shokri R, Stronati M, Song C, et al. Membership inference attacks against machine learning models",
+              "description": "[C]//2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017: 3-18.[code:csong27/membership-inference]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93495956,
+                "language": "Python",
+                "last_commit": "2017-11-15T18:40:25Z",
+                "owner": "csong27",
+                "repo": "membership-inference",
+                "stars": 202
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -466,7 +743,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-24T01:28:37Z",
+            "last_commit": "2026-08-24T14:37:36Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
@@ -1009,7 +1286,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-24T01:28:37Z",
+            "last_commit": "2026-08-24T14:37:36Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
@@ -1080,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:45:24.534Z",
+    "last_updated": "2026-08-24T14:42:11.753Z",
     "original_repository": "ChanChiChoi/awesome-Federated-Learning",
     "original_repository_id": 317710748,
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
