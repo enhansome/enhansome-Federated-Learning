@@ -15,7 +15,7 @@
             "last_commit": "2024-05-30T21:21:42Z",
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2090
+            "stars": 2091
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-16T16:14:13Z",
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-12-07T01:14:28Z",
             "owner": "lx10077",
             "repo": "fedavgpy",
-            "stars": 273
+            "stars": 274
           }
         }
       ],
@@ -501,10 +501,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38616
+            "stars": 38623
           }
         }
       ],
@@ -716,7 +716,7 @@
             "last_commit": "2024-11-19T08:19:11Z",
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6088
+            "stars": 6089
           }
         },
         {
@@ -743,7 +743,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-25T02:25:02Z",
+            "last_commit": "2026-08-26T03:29:01Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
@@ -803,7 +803,7 @@
             "archived": false,
             "id": 329117231,
             "language": "Python",
-            "last_commit": "2026-02-21T16:41:42Z",
+            "last_commit": "2026-08-25T21:38:21Z",
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
             "stars": 842
@@ -821,7 +821,7 @@
             "last_commit": "2025-10-20T15:41:06Z",
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -1175,10 +1175,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38616
+            "stars": 38623
           }
         },
         {
@@ -1286,7 +1286,7 @@
             "archived": false,
             "id": 161556784,
             "language": "Python",
-            "last_commit": "2026-08-25T02:25:02Z",
+            "last_commit": "2026-08-26T03:29:01Z",
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:46:05.626Z",
+    "last_updated": "2026-08-26T11:47:18.169Z",
     "original_repository": "ChanChiChoi/awesome-Federated-Learning",
     "original_repository_id": 317710748,
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
