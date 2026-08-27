@@ -501,10 +501,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38623
+            "stars": 38630
           }
         }
       ],
@@ -647,7 +647,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:36Z",
+            "last_commit": "2026-08-26T18:58:33Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -698,7 +698,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:36Z",
+            "last_commit": "2026-08-26T18:58:33Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -908,7 +908,7 @@
             "archived": false,
             "id": 274528384,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:26:37Z",
+            "last_commit": "2026-08-27T10:51:32Z",
             "owner": "epfml",
             "repo": "disco",
             "stars": 187
@@ -1175,10 +1175,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38623
+            "stars": 38630
           }
         },
         {
@@ -1357,9 +1357,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:47:18.169Z",
-    "original_repository": "ChanChiChoi/awesome-Federated-Learning",
-    "original_repository_id": 317710748,
+    "last_updated": "2026-08-27T11:37:34.792Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 317710748,
+      "language": null,
+      "last_commit": "2023-01-10T04:01:04Z",
+      "owner": "ChanChiChoi",
+      "repo": "awesome-Federated-Learning",
+      "stars": 90
+    },
     "original_repository_sha": "a2e30ae9ef057054fd46e684b916d1be18005bd8",
     "enhanced_repository": "enhansome/enhansome-Federated-Learning",
     "enhanced_repository_description": null,
