@@ -504,7 +504,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         }
       ],
@@ -647,7 +647,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-26T18:58:33Z",
+            "last_commit": "2026-08-27T13:32:48Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -698,7 +698,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-26T18:58:33Z",
+            "last_commit": "2026-08-27T13:32:48Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -716,7 +716,7 @@
             "last_commit": "2024-11-19T08:19:11Z",
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6089
+            "stars": 6090
           }
         },
         {
@@ -908,7 +908,7 @@
             "archived": false,
             "id": 274528384,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:51:32Z",
+            "last_commit": "2026-08-27T15:43:31Z",
             "owner": "epfml",
             "repo": "disco",
             "stars": 187
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:34.792Z",
+    "last_updated": "2026-08-27T21:02:55.884Z",
     "original_repository_info": {
       "archived": false,
       "id": 317710748,
