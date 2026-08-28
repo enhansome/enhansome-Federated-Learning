@@ -16,7 +16,8 @@
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
             "stars": 2091
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
             "stars": 2016
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lokinko",
             "repo": "Federated-Learning",
             "stars": 1149
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
             "stars": 737
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ZeroWangZY",
             "repo": "federated-learning",
             "stars": 635
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "poga",
             "repo": "awesome-federated-learning",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "tushar-semwal",
             "repo": "awesome-federated-computing",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "huweibo",
             "repo": "Awesome-Federated-Learning-on-Graph-and-GNN-papers",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "timmers",
             "repo": "awesome-federated-learning",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "albarqouni",
             "repo": "Federated-Learning-In-Healthcare",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "lee-man",
             "repo": "federated-learning",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Overview"
@@ -187,7 +198,8 @@
             "owner": "litian96",
             "repo": "FedProx",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "IBM",
             "repo": "FedMA",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "IBM",
             "repo": "probabilistic-federated-neural-matching",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "hongliny",
             "repo": "FedAc-NeurIPS20",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Distributed Optimization"
@@ -253,7 +268,8 @@
             "owner": "CharlieDinh",
             "repo": "pFedMe",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "lx10077",
             "repo": "fedavgpy",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Non-IID and Model Personalization"
@@ -289,7 +306,8 @@
             "owner": "litian96",
             "repo": "fair_flearn",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "IBM",
             "repo": "probabilistic-federated-neural-matching",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Hierarchical Federated Learning && Horizontal Federated Learning"
@@ -325,7 +344,8 @@
             "owner": "JonasGeiping",
             "repo": "invertinggradients",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "ebagdasa",
             "repo": "backdoor_federated_learning",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "AI-secure",
             "repo": "DBA",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "inspire-group",
             "repo": "ModelPoisoning",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "csong27",
             "repo": "property-inference-collaborative-ml",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Adversarial-Attack-and-Defense"
@@ -406,7 +430,8 @@
             "owner": "ebagdasa",
             "repo": "backdoor_federated_learning",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "inspire-group",
             "repo": "ModelPoisoning",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Privacy && Homomorphic Encryption"
@@ -441,8 +467,9 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4062
-          }
+            "stars": 4061
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "System Design"
@@ -463,7 +490,8 @@
             "owner": "tensorflow",
             "repo": "gan",
             "stars": 963
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Models"
@@ -484,7 +512,8 @@
             "owner": "shaoxiongji",
             "repo": "fed-att",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Natural language Processing"
@@ -504,8 +533,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38631
-          }
+            "stars": 38641
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Computer Vision"
@@ -528,7 +558,8 @@
                 "owner": "csong27",
                 "repo": "membership-inference",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             }
           ],
           "description": null,
@@ -549,8 +580,9 @@
                 "last_commit": "2025-10-28T12:44:12Z",
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4062
-              }
+                "stars": 4061
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             },
             {
               "node_type": "item",
@@ -565,7 +597,8 @@
                 "owner": "MLOPTPSU",
                 "repo": "FedTorch",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             },
             {
               "node_type": "item",
@@ -580,7 +613,8 @@
                 "owner": "kiddyboots216",
                 "repo": "CommEfficient",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             },
             {
               "node_type": "item",
@@ -595,7 +629,8 @@
                 "owner": "andylamp",
                 "repo": "federated_pca",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             },
             {
               "node_type": "item",
@@ -610,7 +645,8 @@
                 "owner": "omarfoq",
                 "repo": "communication-in-cross-silo-fl",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             },
             {
               "node_type": "item",
@@ -625,7 +661,8 @@
                 "owner": "abhimanyudubey",
                 "repo": "private_federated_linear_bandits",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:38.025Z"
             }
           ],
           "description": null,
@@ -647,11 +684,12 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-27T13:32:48Z",
+            "last_commit": "2026-08-28T19:54:07Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9957
-          }
+            "stars": 9959
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -666,7 +704,8 @@
             "owner": "open-intelligence",
             "repo": "federated-learning-chinese",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -681,7 +720,8 @@
             "owner": "thormacy",
             "repo": "Federated-Learning",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Blogs && Tutorials"
@@ -698,11 +738,12 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-27T13:32:48Z",
+            "last_commit": "2026-08-28T19:54:07Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9957
-          }
+            "stars": 9959
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -717,7 +758,8 @@
             "owner": "FederatedAI",
             "repo": "FATE",
             "stars": 6090
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -731,8 +773,9 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4062
-          }
+            "stars": 4061
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -747,7 +790,8 @@
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -762,7 +806,8 @@
             "owner": "facebookresearch",
             "repo": "CrypTen",
             "stars": 1649
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -776,8 +821,9 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
-          }
+            "stars": 1541
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -792,7 +838,8 @@
             "owner": "bytedance",
             "repo": "fedlearner",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -807,7 +854,8 @@
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
             "stars": 842
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -822,7 +870,8 @@
             "owner": "SMILELab-FL",
             "repo": "FedLab",
             "stars": 828
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -837,7 +886,8 @@
             "owner": "LatticeX-Foundation",
             "repo": "Rosetta",
             "stars": 550
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -852,7 +902,8 @@
             "owner": "IBM",
             "repo": "federated-learning-lib",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -867,7 +918,8 @@
             "owner": "PaddlePaddle",
             "repo": "PaddleFL",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -882,7 +934,8 @@
             "owner": "google",
             "repo": "fedjax",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -897,7 +950,8 @@
             "owner": "xaynetwork",
             "repo": "xaynet",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -908,11 +962,12 @@
             "archived": false,
             "id": 274528384,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:43:31Z",
+            "last_commit": "2026-08-28T15:11:51Z",
             "owner": "epfml",
             "repo": "disco",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -927,7 +982,8 @@
             "owner": "scaleoutsystems",
             "repo": "scaleout-client",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -942,7 +998,8 @@
             "owner": "jd-opensource",
             "repo": "9n-mpc",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1014,8 @@
             "owner": "cyqclark",
             "repo": "fedlearn-algo",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -972,7 +1030,8 @@
             "owner": "FederalLab",
             "repo": "OpenFed",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -987,7 +1046,8 @@
             "owner": "EasyFL-AI",
             "repo": "EasyFL",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Framework"
@@ -1008,7 +1068,8 @@
             "owner": "shaoxiongji",
             "repo": "federated-learning",
             "stars": 1515
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1084,8 @@
             "owner": "AshwinRJ",
             "repo": "Federated-Learning-PyTorch",
             "stars": 1437
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1100,8 @@
             "owner": "GalaxyLearning",
             "repo": "GFL",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1116,8 @@
             "owner": "OpenMined",
             "repo": "PyVertical",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1132,8 @@
             "owner": "osu-crypto",
             "repo": "libPSI",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1148,8 @@
             "owner": "roxanneluo",
             "repo": "Federated-Learning",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1164,8 @@
             "owner": "shashigharti",
             "repo": "federated-learning-on-raspberry-pi",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1180,8 @@
             "owner": "LabeliaLabs",
             "repo": "distributed-learning-contributivity",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1196,8 @@
             "owner": "FELT-Labs",
             "repo": "federated-learning-token",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1143,7 +1212,8 @@
             "owner": "wnma3mz",
             "repo": "flearn",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1158,7 +1228,8 @@
             "owner": "papersdclub",
             "repo": "Differentially_private_federated_learning",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Projects"
@@ -1178,8 +1249,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38631
-          }
+            "stars": 38641
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1194,7 +1266,8 @@
             "owner": "TalwalkarLab",
             "repo": "leaf",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1209,7 +1282,8 @@
             "owner": "Xtra-Computing",
             "repo": "NIID-Bench",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1224,7 +1298,8 @@
             "owner": "FedML-AI",
             "repo": "FedGraphNN",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1239,7 +1314,8 @@
             "owner": "SMILELab-FL",
             "repo": "FedLab-benchmarks",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1254,7 +1330,8 @@
             "owner": "cap-ntu",
             "repo": "FedReID",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1269,7 +1346,8 @@
             "owner": "Xtra-Computing",
             "repo": "SOFF",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Datasets && Benchmark"
@@ -1290,7 +1368,8 @@
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1305,7 +1384,8 @@
             "owner": "bytedance",
             "repo": "fedlearner",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1320,7 +1400,8 @@
             "owner": "PaddlePaddle",
             "repo": "PaddleFL",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1335,7 +1416,8 @@
             "owner": "xaynetwork",
             "repo": "xaynet",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         },
         {
           "node_type": "item",
@@ -1350,14 +1432,15 @@
             "owner": "jd-opensource",
             "repo": "9n-mpc",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T21:26:38.025Z"
         }
       ],
       "title": "Company"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:55.884Z",
+    "last_updated": "2026-08-28T21:26:38.025Z",
     "original_repository_info": {
       "archived": false,
       "id": 317710748,
