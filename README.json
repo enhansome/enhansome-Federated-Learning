@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2091,
+            "stars": 2092,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -50,7 +50,7 @@
             "open_issues": 3,
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "adversarial-attack-and-defense",
               "communication-efficiency",
@@ -797,7 +797,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38649,
             "topics": [
               "ai",
               "machine-learning",
@@ -1033,7 +1033,7 @@
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9975,
+            "stars": 9998,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1112,7 +1112,7 @@
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9975,
+            "stars": 9998,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1245,7 +1245,7 @@
             "open_issues": 55,
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1541,
+            "stars": 1542,
             "topics": [
               "federated-learning",
               "machine-learning",
@@ -1629,7 +1629,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1515,
+            "stars": 1516,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -1654,7 +1654,7 @@
             "open_issues": 31,
             "owner": "AshwinRJ",
             "repo": "Federated-Learning-PyTorch",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "deep-learning",
               "distributed-computing",
@@ -1913,7 +1913,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38649,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:14.297Z",
+    "last_updated": "2026-08-29T15:39:18.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
