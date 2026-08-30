@@ -50,7 +50,7 @@
             "open_issues": 3,
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
-            "stars": 2017,
+            "stars": 2018,
             "topics": [
               "adversarial-attack-and-defense",
               "communication-efficiency",
@@ -698,7 +698,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -797,7 +797,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38649,
+            "stars": 38654,
             "topics": [
               "ai",
               "machine-learning",
@@ -861,7 +861,7 @@
                 "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -1030,10 +1030,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:54:07Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9998,
+            "stars": 10014,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1109,10 +1109,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:54:07Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9998,
+            "stars": 10014,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1143,7 +1143,7 @@
             "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6090,
+            "stars": 6091,
             "topics": [
               "algorithm",
               "fate",
@@ -1170,7 +1170,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -1199,8 +1199,8 @@
             "id": 161556784,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T03:29:01Z",
-            "open_issues": 290,
+            "last_commit": "2026-08-30T03:17:35Z",
+            "open_issues": 291,
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448,
@@ -1245,7 +1245,7 @@
             "open_issues": 55,
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "federated-learning",
               "machine-learning",
@@ -1319,7 +1319,7 @@
             "open_issues": 8,
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -1913,7 +1913,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38649,
+            "stars": 38654,
             "topics": [
               "ai",
               "machine-learning",
@@ -2093,8 +2093,8 @@
             "id": 161556784,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T03:29:01Z",
-            "open_issues": 290,
+            "last_commit": "2026-08-30T03:17:35Z",
+            "open_issues": 291,
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
             "stars": 2448,
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:39:18.097Z",
+    "last_updated": "2026-08-30T15:21:25.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
