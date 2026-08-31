@@ -44,12 +44,12 @@ also, some papers and links collected from:
 
 * \[7-] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) ⭐ 2,092 | 🐛 7 | 📅 2024-05-30
 * \[1-] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ⭐ 2,018 | 🐛 3 | 📅 2022-09-03
-* \[3] [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning) ⭐ 1,149 | 🐛 4 | 📅 2023-03-14
+* \[3] [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning) ⭐ 1,150 | 🐛 4 | 📅 2023-03-14
 * \[2] [weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning) ⭐ 737 | 🐛 0 | 🌐 Shell | 📅 2025-11-16
-* \[8-] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) ⭐ 635 | 🐛 1 | 📅 2021-04-28
+* \[8-] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) ⭐ 636 | 🐛 1 | 📅 2021-04-28
 * \[5-] [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning) ⭐ 544 | 🐛 4 | 📅 2024-06-26
-* \[4-] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing) ⭐ 479 | 🐛 1 | 📅 2023-08-01
-* \[11][huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 346 | 🐛 2 | 📅 2024-02-21
+* \[4-] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing) ⭐ 478 | 🐛 1 | 📅 2023-08-01
+* \[11][huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 345 | 🐛 2 | 📅 2024-02-21
 * \[6-] [timmers/awesome-federated-learning](https://github.com/timmers/awesome-federated-learning) ⭐ 103 | 🐛 1 | 📅 2022-03-18
 * \[10-] [albarqouni/Federated-Learning-In-Healthcare](https://github.com/albarqouni/Federated-Learning-In-Healthcare) ⭐ 35 | 🐛 0 | 📅 2020-09-21
 * \[9-] [lee-man/federated-learning](https://github.com/lee-man/federated-learning) ⭐ 26 | 🐛 0 | 📅 2020-04-09
@@ -100,7 +100,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Distributed Optimization
 
-* Li T, Sahu A K, Zaheer M, et al. [Federated optimization in heterogeneous networks](https://proceedings.mlsys.org/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)\[J]. Proceedings of Machine Learning and Systems, 2020, 2: 429-450.<br>\[code:[litian96/FedProx](https://github.com/litian96/FedProx) ⭐ 734 | 🐛 11 | 🌐 Python | 📅 2023-03-24]
+* Li T, Sahu A K, Zaheer M, et al. [Federated optimization in heterogeneous networks](https://proceedings.mlsys.org/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)\[J]. Proceedings of Machine Learning and Systems, 2020, 2: 429-450.<br>\[code:[litian96/FedProx](https://github.com/litian96/FedProx) ⭐ 733 | 🐛 11 | 🌐 Python | 📅 2023-03-24]
 * \[ICLR]Hongyi Wang, Mikhail Yurochkin, Yuekai Sun, Dimitris Papailiopoulos, Yasaman Khazaeni .[Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440) \[J]. arXiv preprint arXiv:2002.06440.<br>\[code:[IBM/FedMA](https://github.com/IBM/FedMA) ⚠️ Archived]
 * \[ICML]Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Trong Nghia Hoang, Yasaman Khazaeni .[Bayesian Nonparametric Federated Learning of Neural Networks](https://arxiv.org/pdf/1905.12022) \[J]. arXiv preprint arXiv:1905.12022.<br>\[code:[IBM/probabilistic-federated-neural-matching](https://github.com/IBM/probabilistic-federated-neural-matching) ⚠️ Archived]
 * \[NIPS]Honglin Yuan, Tengyu Ma .[Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/pdf/2006.08950) \[J]. arXiv preprint arXiv:2006.08950.<br>\[code:[hongliny/FedAc-NeurIPS20](https://github.com/hongliny/FedAc-NeurIPS20) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-06-07]
@@ -674,7 +674,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Computer Vision
 
-* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,654 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27]
+* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,660 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31]
 * Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/pdf/1909.06335) \[J]. arXiv preprint arXiv:1909.06335.
 * Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang .[FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/pdf/2001.06202) \[J]. arXiv preprint arXiv:2001.06202.
 * Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel .[Federated Face Anti-spoofing](https://arxiv.org/pdf/2005.14638) \[J]. arXiv preprint arXiv:2005.14638.
@@ -2277,7 +2277,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Blogs && Tutorials
 
-* [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials) ⭐ 10,014 | 🐛 20 | 🌐 Python | 📅 2026-08-28
+* [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials) ⭐ 10,019 | 🐛 20 | 🌐 Python | 📅 2026-08-28
 * [open-intelligence/federated-learning-chinese](https://github.com/open-intelligence/federated-learning-chinese) ⭐ 110 | 🐛 1 | 📅 2021-03-02
 * \[PPT][thormacy/Federated-Learning](https://github.com/thormacy/Federated-Learning/tree/master/PPT) ⭐ 3 | 🐛 0 | 📅 2019-06-03
 * [Learn to adapt Flower for your use-case](https://flower.dev/blog)
@@ -2321,21 +2321,21 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Framework
 
-* [OpenMined/PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,014 | 🐛 20 | 🌐 Python | 📅 2026-08-28
-* [FederatedAI/FATE](https://github.com/FederatedAI/FATE) ⭐ 6,091 | 🐛 18 | 🌐 Python | 📅 2024-11-19;   [DOC](https://fate.readthedocs.io/en/latest/index.html);   [VIDEO](https://edu.51cto.com/lesson/513105)
+* [OpenMined/PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,019 | 🐛 20 | 🌐 Python | 📅 2026-08-28
+* [FederatedAI/FATE](https://github.com/FederatedAI/FATE) ⭐ 6,090 | 🐛 18 | 🌐 Python | 📅 2024-11-19;   [DOC](https://fate.readthedocs.io/en/latest/index.html);   [VIDEO](https://edu.51cto.com/lesson/513105)
 * [FedML-AI/FedML](https://github.com/FedML-AI/FedML) ⭐ 4,062 | 🐛 147 | 🌐 Python | 📅 2025-10-28
-* [tensorflow/federated](https://github.com/tensorflow/federated) ⭐ 2,448 | 🐛 291 | 🌐 Python | 📅 2026-08-30
+* [tensorflow/federated](https://github.com/tensorflow/federated) ⭐ 2,448 | 🐛 292 | 🌐 Python | 📅 2026-08-31
 * [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) ⚠️ Archived
 * [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) ⭐ 1,543 | 🐛 55 | 🌐 Python | 📅 2024-08-10
 * [bytedance/fedlearner](https://github.com/bytedance/fedlearner) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * [intel/openfl](https://github.com/intel/openfl) ⭐ 842 | 🐛 83 | 🌐 Python | 📅 2026-08-25
-* [SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 829 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20
+* [SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 828 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20
 * [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 550 | 🐛 6 | 🌐 C++ | 📅 2022-04-26
 * [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib) ⚠️ Archived
 * [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * [google/fedjax](https://github.com/google/fedjax) ⭐ 272 | 🐛 12 | 🌐 Python | 📅 2026-08-06
 * [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) ⚠️ Archived
-* [epfml/disco](https://github.com/epfml/disco) ⭐ 187 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-28
+* [epfml/disco](https://github.com/epfml/disco) ⭐ 187 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-31
 * [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2026-07-10
 * [jd-9n/9nfl](https://github.com/jd-9n/9nfl) ⭐ 113 | 🐛 7 | 🌐 Java | 📅 2025-05-16
 * [cyqclark/fedlearn-algo](https://github.com/cyqclark/fedlearn-algo) ⭐ 92 | 🐛 3 | 🌐 Python | 📅 2022-04-23
@@ -2348,8 +2348,8 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Projects
 
-* [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning) ⭐ 1,516 | 🐛 16 | 🌐 Python | 📅 2024-07-25
-* [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch) ⭐ 1,438 | 🐛 31 | 🌐 Python | 📅 2024-05-07
+* [shaoxiongji/federated-learning](https://github.com/shaoxiongji/federated-learning) ⭐ 1,515 | 🐛 16 | 🌐 Python | 📅 2024-07-25
+* [AshwinRJ/Federated-Learning-PyTorch](https://github.com/AshwinRJ/Federated-Learning-PyTorch) ⭐ 1,437 | 🐛 31 | 🌐 Python | 📅 2024-05-07
 * [GalaxyLearning/GFL](https://github.com/GalaxyLearning/GFL/blob/master/README_cn.md) ⭐ 252 | 🐛 3 | 🌐 Python | 📅 2023-01-14
 * [OpenMined/PyVertical](https://github.com/OpenMined/PyVertical) ⭐ 222 | 🐛 20 | 🌐 Python | 📅 2023-06-01
 * [osu-crypto/libPSI](https://github.com/osu-crypto/libPSI) ⭐ 188 | 🐛 6 | 🌐 C++ | 📅 2024-12-23
@@ -2365,11 +2365,11 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Datasets && Benchmark
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,654 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
-* Caldas S, Duddu S M K, Wu P, et al. [Leaf: A benchmark for federated settings](https://arxiv.org/abs/1812.01097)\[J]. arXiv preprint arXiv:1812.01097, 2018. <br> \[code:[Github](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24;[website](https://leaf.cmu.edu/)];[code-pytorch](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) ⭐ 155 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,660 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
+* Caldas S, Duddu S M K, Wu P, et al. [Leaf: A benchmark for federated settings](https://arxiv.org/abs/1812.01097)\[J]. arXiv preprint arXiv:1812.01097, 2018. <br> \[code:[Github](https://github.com/TalwalkarLab/leaf) ⭐ 910 | 🐛 36 | 🌐 Python | 📅 2023-03-24;[website](https://leaf.cmu.edu/)];[code-pytorch](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
 * [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079);<br>[code](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 | 🐛 1 | 🌐 Python | 📅 2024-02-26
 * [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145);<br>[code](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 | 🐛 8 | 📅 2023-12-19
-* [SMILELab-FL/FedLab-benchmarks](https://github.com/SMILELab-FL/FedLab-benchmarks) ⭐ 155 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
+* [SMILELab-FL/FedLab-benchmarks](https://github.com/SMILELab-FL/FedLab-benchmarks) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
 * Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi .[Performance Optimization for Federated Person Re-identification via Benchmark Analysis](https://arxiv.org/pdf/2008.11560) \[J]. arXiv preprint arXiv:2008.11560. <br> \[code:[cap-ntu/FedReID](https://github.com/cap-ntu/FedReID) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2023-03-30]
 * Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He .[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856) \[J]. arXiv preprint arXiv:2006.07856.[code](https://github.com/Xtra-Computing/OARF) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-03-13
 * \[DIDL][A Performance Evaluation of Federated Learning Algorithms](https://www.researchgate.net/profile/Gregor_Ulm/publication/329106719_A_Performance_Evaluation_of_Federated_Learning_Algorithms/links/5c0fabcfa6fdcc494febf907/A-Performance-Evaluation-of-Federated-Learning-Algorithms.pdf)
@@ -2399,7 +2399,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Company
 
-* [google TensorFlow](https://github.com/tensorflow/federated) ⭐ 2,448 | 🐛 291 | 🌐 Python | 📅 2026-08-30
+* [google TensorFlow](https://github.com/tensorflow/federated) ⭐ 2,448 | 🐛 292 | 🌐 Python | 📅 2026-08-31
 * [bytedance](https://github.com/bytedance/fedlearner) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * [baidu PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * [XAIN](https://www.xain.io/) [\[Github\]](https://github.com/xainag/xain-fl) ⚠️ Archived: Automated Invoicing
@@ -2703,4 +2703,4 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
