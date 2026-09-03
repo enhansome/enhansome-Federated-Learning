@@ -698,7 +698,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4062,
+            "stars": 4064,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -793,11 +793,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38678,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -861,7 +861,7 @@
                 "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4062,
+                "stars": 4064,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -1033,7 +1033,7 @@
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10022,
+            "stars": 10025,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1112,7 +1112,7 @@
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10022,
+            "stars": 10025,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1170,7 +1170,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4062,
+            "stars": 4064,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -1465,7 +1465,7 @@
             "id": 274528384,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T12:31:51Z",
+            "last_commit": "2026-09-03T12:13:57Z",
             "open_issues": 61,
             "owner": "epfml",
             "repo": "disco",
@@ -1909,11 +1909,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38678,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:07:34.173Z",
+    "last_updated": "2026-09-03T15:01:16.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
