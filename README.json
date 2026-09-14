@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "ZeroWangZY",
             "repo": "federated-learning",
-            "stars": 637,
+            "stars": 638,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:38.025Z"
@@ -320,7 +320,7 @@
             "open_issues": 11,
             "owner": "litian96",
             "repo": "FedProx",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "distributed-optimization",
               "federated-optimization",
@@ -794,10 +794,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1992,
+            "open_issues": 1993,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38747,
+            "stars": 38755,
             "topics": [
               "ai",
               "machine-learning",
@@ -1029,11 +1029,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:09:35Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T23:38:49Z",
+            "open_issues": 13,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10031,
+            "stars": 10030,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1108,11 +1108,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:09:35Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T23:38:49Z",
+            "open_issues": 13,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10031,
+            "stars": 10030,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1143,7 +1143,7 @@
             "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6097,
+            "stars": 6096,
             "topics": [
               "algorithm",
               "fate",
@@ -1245,7 +1245,7 @@
             "open_issues": 55,
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1544,
+            "stars": 1543,
             "topics": [
               "federated-learning",
               "machine-learning",
@@ -1910,10 +1910,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1992,
+            "open_issues": 1993,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38747,
+            "stars": 38755,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:55:48.421Z",
+    "last_updated": "2026-09-14T16:58:56.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
