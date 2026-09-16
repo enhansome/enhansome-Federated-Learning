@@ -42,14 +42,14 @@ The repository collects papers(mainly from arxiv.org), Frameworks, projects, dat
 
 also, some papers and links collected from:
 
-* \[7-] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) ⭐ 2,095 | 🐛 7 | 📅 2024-05-30
+* \[7-] [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) ⭐ 2,094 | 🐛 7 | 📅 2024-05-30
 * \[1-] [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ⭐ 2,020 | 🐛 3 | 📅 2022-09-03
 * \[3] [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning) ⭐ 1,150 | 🐛 4 | 📅 2023-03-14
 * \[2] [weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning) ⭐ 737 | 🐛 0 | 🌐 Shell | 📅 2025-11-16
 * \[8-] [ZeroWangZY/federated-learning](https://github.com/ZeroWangZY/federated-learning) ⭐ 638 | 🐛 1 | 📅 2021-04-28
 * \[5-] [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning) ⭐ 544 | 🐛 4 | 📅 2024-06-26
 * \[4-] [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing) ⭐ 478 | 🐛 1 | 📅 2023-08-01
-* \[11][huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 345 | 🐛 2 | 📅 2024-02-21
+* \[11][huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 344 | 🐛 2 | 📅 2024-02-21
 * \[6-] [timmers/awesome-federated-learning](https://github.com/timmers/awesome-federated-learning) ⭐ 103 | 🐛 1 | 📅 2022-03-18
 * \[10-] [albarqouni/Federated-Learning-In-Healthcare](https://github.com/albarqouni/Federated-Learning-In-Healthcare) ⭐ 35 | 🐛 0 | 📅 2020-09-21
 * \[9-] [lee-man/federated-learning](https://github.com/lee-man/federated-learning) ⭐ 26 | 🐛 0 | 📅 2020-04-09
@@ -674,7 +674,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Computer Vision
 
-* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,768 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15]
+* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,774 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15]
 * Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/pdf/1909.06335) \[J]. arXiv preprint arXiv:1909.06335.
 * Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang .[FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/pdf/2001.06202) \[J]. arXiv preprint arXiv:2001.06202.
 * Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel .[Federated Face Anti-spoofing](https://arxiv.org/pdf/2005.14638) \[J]. arXiv preprint arXiv:2005.14638.
@@ -2277,7 +2277,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Blogs && Tutorials
 
-* [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials) ⭐ 10,031 | 🐛 13 | 🌐 Python | 📅 2026-09-15
+* [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials) ⭐ 10,031 | 🐛 15 | 🌐 Python | 📅 2026-09-16
 * [open-intelligence/federated-learning-chinese](https://github.com/open-intelligence/federated-learning-chinese) ⭐ 110 | 🐛 1 | 📅 2021-03-02
 * \[PPT][thormacy/Federated-Learning](https://github.com/thormacy/Federated-Learning/tree/master/PPT) ⭐ 3 | 🐛 0 | 📅 2019-06-03
 * [Learn to adapt Flower for your use-case](https://flower.dev/blog)
@@ -2321,15 +2321,15 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Framework
 
-* [OpenMined/PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,031 | 🐛 13 | 🌐 Python | 📅 2026-09-15
+* [OpenMined/PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,031 | 🐛 15 | 🌐 Python | 📅 2026-09-16
 * [FederatedAI/FATE](https://github.com/FederatedAI/FATE) ⭐ 6,096 | 🐛 18 | 🌐 Python | 📅 2024-11-19;   [DOC](https://fate.readthedocs.io/en/latest/index.html);   [VIDEO](https://edu.51cto.com/lesson/513105)
 * [FedML-AI/FedML](https://github.com/FedML-AI/FedML) ⭐ 4,065 | 🐛 147 | 🌐 Python | 📅 2025-10-28
 * [tensorflow/federated](https://github.com/tensorflow/federated) ⭐ 2,452 | 🐛 290 | 🌐 Python | 📅 2026-09-14
 * [facebookresearch/CrypTen](https://github.com/facebookresearch/CrypTen) ⚠️ Archived
-* [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) ⭐ 1,543 | 🐛 55 | 🌐 Python | 📅 2024-08-10
+* [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) ⭐ 1,542 | 🐛 55 | 🌐 Python | 📅 2024-08-10
 * [bytedance/fedlearner](https://github.com/bytedance/fedlearner) ⭐ 900 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * [intel/openfl](https://github.com/intel/openfl) ⭐ 843 | 🐛 83 | 🌐 Python | 📅 2026-08-25
-* [SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 829 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20
+* [SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 828 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20
 * [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 551 | 🐛 6 | 🌐 C++ | 📅 2022-04-26
 * [IBM/federated-learning-lib](https://github.com/IBM/federated-learning-lib) ⚠️ Archived
 * [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
@@ -2365,9 +2365,9 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Datasets && Benchmark
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,768 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,774 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15
 * Caldas S, Duddu S M K, Wu P, et al. [Leaf: A benchmark for federated settings](https://arxiv.org/abs/1812.01097)\[J]. arXiv preprint arXiv:1812.01097, 2018. <br> \[code:[Github](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24;[website](https://leaf.cmu.edu/)];[code-pytorch](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
-* [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079);<br>[code](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 619 | 🐛 1 | 🌐 Python | 📅 2024-02-26
+* [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079);<br>[code](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 | 🐛 1 | 🌐 Python | 📅 2024-02-26
 * [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145);<br>[code](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 | 🐛 8 | 📅 2023-12-19
 * [SMILELab-FL/FedLab-benchmarks](https://github.com/SMILELab-FL/FedLab-benchmarks) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
 * Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi .[Performance Optimization for Federated Person Re-identification via Benchmark Analysis](https://arxiv.org/pdf/2008.11560) \[J]. arXiv preprint arXiv:2008.11560. <br> \[code:[cap-ntu/FedReID](https://github.com/cap-ntu/FedReID) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2023-03-30]
@@ -2703,4 +2703,4 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

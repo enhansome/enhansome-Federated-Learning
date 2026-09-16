@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2095,
+            "stars": 2094,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -223,7 +223,7 @@
             "open_issues": 2,
             "owner": "huweibo",
             "repo": "Awesome-Federated-Learning-on-Graph-and-GNN-papers",
-            "stars": 345,
+            "stars": 344,
             "topics": [
               "federated-learning",
               "gnn",
@@ -793,11 +793,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:37:45Z",
+            "last_commit": "2026-09-15T17:14:49Z",
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38768,
+            "stars": 38774,
             "topics": [
               "ai",
               "machine-learning",
@@ -1029,8 +1029,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T12:32:38Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-16T14:25:59Z",
+            "open_issues": 15,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10031,
@@ -1108,8 +1108,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T12:32:38Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-16T14:25:59Z",
+            "open_issues": 15,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10031,
@@ -1245,7 +1245,7 @@
             "open_issues": 55,
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1543,
+            "stars": 1542,
             "topics": [
               "federated-learning",
               "machine-learning",
@@ -1319,7 +1319,7 @@
             "open_issues": 8,
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 829,
+            "stars": 828,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -1909,11 +1909,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:37:45Z",
+            "last_commit": "2026-09-15T17:14:49Z",
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38768,
+            "stars": 38774,
             "topics": [
               "ai",
               "machine-learning",
@@ -1959,7 +1959,7 @@
             "open_issues": 1,
             "owner": "Xtra-Computing",
             "repo": "NIID-Bench",
-            "stars": 619,
+            "stars": 618,
             "topics": [
               "benchmark",
               "feature-imbalance",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:34:43.278Z",
+    "last_updated": "2026-09-16T15:25:51.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
