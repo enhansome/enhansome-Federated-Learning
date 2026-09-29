@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2093,
+            "stars": 2095,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -698,7 +698,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4065,
+            "stars": 4066,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -797,7 +797,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38839,
+            "stars": 38849,
             "topics": [
               "ai",
               "machine-learning",
@@ -861,7 +861,7 @@
                 "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4065,
+                "stars": 4066,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -942,7 +942,7 @@
                 "open_issues": 0,
                 "owner": "andylamp",
                 "repo": "federated_pca",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "decentralized",
                   "differential-privacy",
@@ -1029,11 +1029,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T07:40:18Z",
+            "last_commit": "2026-09-29T16:10:45Z",
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10038,
+            "stars": 10039,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1108,11 +1108,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T07:40:18Z",
+            "last_commit": "2026-09-29T16:10:45Z",
             "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10038,
+            "stars": 10039,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -1170,7 +1170,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4065,
+            "stars": 4066,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -1199,7 +1199,7 @@
             "id": 161556784,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T21:58:08Z",
+            "last_commit": "2026-09-28T22:24:11Z",
             "open_issues": 292,
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
@@ -1414,7 +1414,7 @@
             "id": 323652822,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T14:12:28Z",
+            "last_commit": "2026-09-29T09:14:57Z",
             "open_issues": 12,
             "owner": "google",
             "repo": "fedjax",
@@ -1465,8 +1465,8 @@
             "id": 274528384,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T16:14:06Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-29T16:03:59Z",
+            "open_issues": 67,
             "owner": "epfml",
             "repo": "disco",
             "stars": 190,
@@ -1498,7 +1498,7 @@
             "open_issues": 2,
             "owner": "scaleoutsystems",
             "repo": "scaleout-client",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "edge-ai",
               "edge-ml",
@@ -1913,7 +1913,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38839,
+            "stars": 38849,
             "topics": [
               "ai",
               "machine-learning",
@@ -2093,7 +2093,7 @@
             "id": 161556784,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T21:58:08Z",
+            "last_commit": "2026-09-28T22:24:11Z",
             "open_issues": 292,
             "owner": "google-parfait",
             "repo": "tensorflow-federated",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:36:42.174Z",
+    "last_updated": "2026-09-29T16:54:13.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
@@ -2209,7 +2209,7 @@
       "open_issues": 1,
       "owner": "ChanChiChoi",
       "repo": "awesome-Federated-Learning",
-      "stars": 90,
+      "stars": 91,
       "topics": [
         "awesome-list",
         "federated-learning"
