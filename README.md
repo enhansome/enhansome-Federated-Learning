@@ -2,43 +2,43 @@
 
 The repository collects papers(mainly from arxiv.org), Frameworks, projects, datasets of federated learning on bellow themes:
 
-> * \[Papers][Introduction\&Survey](https://github.com/ChanChiChoi/awesome-Federated-Learning#introduction--survey) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Distributed Optimization](https://github.com/ChanChiChoi/awesome-Federated-Learning#distributed-optimization) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Non-IID and Model Personalization](https://github.com/ChanChiChoi/awesome-Federated-Learning#non-iid-and-model-personalization) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Semi-Supervised Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#semi-supervised-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Vertical Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#vertical-federated-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Hierarchical Federated Learning && Horizontal Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#hierarchical-federated-learning--horizontal-federated-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Decentralized Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#decentralized-federated-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Federated Transfer Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#federated-transfer-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Neural Architecture Search](https://github.com/ChanChiChoi/awesome-Federated-Learning#neural-architecture-search) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Continual Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#continual-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Reinforcement Learning && Robotics](https://github.com/ChanChiChoi/awesome-Federated-Learning#reinforcement-learning--robotics) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Statistical][Bayesian Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#bayesian-learning) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Trustworthiness][Adversarial-Attack-and-Defense](https://github.com/ChanChiChoi/awesome-Federated-Learning#adversarial-attack-and-defense) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Trustworthiness][Privacy](https://github.com/ChanChiChoi/awesome-Federated-Learning#privacy--homomorphic-encryption) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Trustworthiness][Incentive Mechanism && Fairness](https://github.com/ChanChiChoi/awesome-Federated-Learning#incentive-mechanism--fairness) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&System][Communication-Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&System][Straggler Problem](https://github.com/ChanChiChoi/awesome-Federated-Learning#straggler-problem) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&System][Computation Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&System][Wireless Communication && Cloud Computing && Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning#wireless-communication--cloud-computing--networking) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&System][System Design](https://github.com/ChanChiChoi/awesome-Federated-Learning#system-design) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Models][Models](https://github.com/ChanChiChoi/awesome-Federated-Learning#models) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Natural language Processing](https://github.com/ChanChiChoi/awesome-Federated-Learning#natural-language-processing) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Computer Vision](https://github.com/ChanChiChoi/awesome-Federated-Learning#computer-vision) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Health Care](https://github.com/ChanChiChoi/awesome-Federated-Learning#health-care) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Transportation](https://github.com/ChanChiChoi/awesome-Federated-Learning#transportation) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Recommendation System](https://github.com/ChanChiChoi/awesome-Federated-Learning#recommendation-system) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Speech Recognition](https://github.com/ChanChiChoi/awesome-Federated-Learning#speech-recognition) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Finance && Blockchain](https://github.com/ChanChiChoi/awesome-Federated-Learning#finance--blockchain) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Applications][Smart City && Other Applications](https://github.com/ChanChiChoi/awesome-Federated-Learning#smart-city--other-applications) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * \[Papers\&Others][uncategorized](https://github.com/ChanChiChoi/awesome-Federated-Learning#uncategorized) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Blogs&\&Tutorials](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs--tutorials) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Framework](https://github.com/ChanChiChoi/awesome-Federated-Learning#framework) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Scholars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scholars) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Conferences and Workshops](https://github.com/ChanChiChoi/awesome-Federated-Learning#conferences-and-workshops) ⭐ 91 | 🐛 1 | 📅 2023-01-10
-> * [Company](https://github.com/ChanChiChoi/awesome-Federated-Learning#company) ⭐ 91 | 🐛 1 | 📅 2023-01-10
+> * \[Papers][Introduction\&Survey](https://github.com/ChanChiChoi/awesome-Federated-Learning#introduction--survey)
+> * \[Papers\&Statistical][Distributed Optimization](https://github.com/ChanChiChoi/awesome-Federated-Learning#distributed-optimization)
+> * \[Papers\&Statistical][Non-IID and Model Personalization](https://github.com/ChanChiChoi/awesome-Federated-Learning#non-iid-and-model-personalization)
+> * \[Papers\&Statistical][Semi-Supervised Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#semi-supervised-learning)
+> * \[Papers\&Statistical][Vertical Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#vertical-federated-learning)
+> * \[Papers\&Statistical][Hierarchical Federated Learning && Horizontal Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#hierarchical-federated-learning--horizontal-federated-learning)
+> * \[Papers\&Statistical][Decentralized Federated Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#decentralized-federated-learning)
+> * \[Papers\&Statistical][Federated Transfer Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#federated-transfer-learning)
+> * \[Papers\&Statistical][Neural Architecture Search](https://github.com/ChanChiChoi/awesome-Federated-Learning#neural-architecture-search)
+> * \[Papers\&Statistical][Continual Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#continual-learning)
+> * \[Papers\&Statistical][Reinforcement Learning && Robotics](https://github.com/ChanChiChoi/awesome-Federated-Learning#reinforcement-learning--robotics)
+> * \[Papers\&Statistical][Bayesian Learning](https://github.com/ChanChiChoi/awesome-Federated-Learning#bayesian-learning)
+> * \[Papers\&Trustworthiness][Adversarial-Attack-and-Defense](https://github.com/ChanChiChoi/awesome-Federated-Learning#adversarial-attack-and-defense)
+> * \[Papers\&Trustworthiness][Privacy](https://github.com/ChanChiChoi/awesome-Federated-Learning#privacy--homomorphic-encryption)
+> * \[Papers\&Trustworthiness][Incentive Mechanism && Fairness](https://github.com/ChanChiChoi/awesome-Federated-Learning#incentive-mechanism--fairness)
+> * \[Papers\&System][Communication-Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency)
+> * \[Papers\&System][Straggler Problem](https://github.com/ChanChiChoi/awesome-Federated-Learning#straggler-problem)
+> * \[Papers\&System][Computation Efficiency](https://github.com/ChanChiChoi/awesome-Federated-Learning#computation-efficiency)
+> * \[Papers\&System][Wireless Communication && Cloud Computing && Networking](https://github.com/ChanChiChoi/awesome-Federated-Learning#wireless-communication--cloud-computing--networking)
+> * \[Papers\&System][System Design](https://github.com/ChanChiChoi/awesome-Federated-Learning#system-design)
+> * \[Papers\&Models][Models](https://github.com/ChanChiChoi/awesome-Federated-Learning#models)
+> * \[Papers\&Applications][Natural language Processing](https://github.com/ChanChiChoi/awesome-Federated-Learning#natural-language-processing)
+> * \[Papers\&Applications][Computer Vision](https://github.com/ChanChiChoi/awesome-Federated-Learning#computer-vision)
+> * \[Papers\&Applications][Health Care](https://github.com/ChanChiChoi/awesome-Federated-Learning#health-care)
+> * \[Papers\&Applications][Transportation](https://github.com/ChanChiChoi/awesome-Federated-Learning#transportation)
+> * \[Papers\&Applications][Recommendation System](https://github.com/ChanChiChoi/awesome-Federated-Learning#recommendation-system)
+> * \[Papers\&Applications][Speech Recognition](https://github.com/ChanChiChoi/awesome-Federated-Learning#speech-recognition)
+> * \[Papers\&Applications][Finance && Blockchain](https://github.com/ChanChiChoi/awesome-Federated-Learning#finance--blockchain)
+> * \[Papers\&Applications][Smart City && Other Applications](https://github.com/ChanChiChoi/awesome-Federated-Learning#smart-city--other-applications)
+> * \[Papers\&Others][uncategorized](https://github.com/ChanChiChoi/awesome-Federated-Learning#uncategorized)
+> * [Blogs&\&Tutorials](https://github.com/ChanChiChoi/awesome-Federated-Learning#blogs--tutorials)
+> * [Framework](https://github.com/ChanChiChoi/awesome-Federated-Learning#framework)
+> * [Projects](https://github.com/ChanChiChoi/awesome-Federated-Learning#projects)
+> * [Datasets && Benchmark](https://github.com/ChanChiChoi/awesome-Federated-Learning#datasets--benchmark)
+> * [Scholars](https://github.com/ChanChiChoi/awesome-Federated-Learning#scholars)
+> * [Conferences and Workshops](https://github.com/ChanChiChoi/awesome-Federated-Learning#conferences-and-workshops)
+> * [Company](https://github.com/ChanChiChoi/awesome-Federated-Learning#company)
 
 also, some papers and links collected from:
 
@@ -674,7 +674,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Computer Vision
 
-* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,860 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30]
+* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,862 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30]
 * Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/pdf/1909.06335) \[J]. arXiv preprint arXiv:1909.06335.
 * Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang .[FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/pdf/2001.06202) \[J]. arXiv preprint arXiv:2001.06202.
 * Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel .[Federated Face Anti-spoofing](https://arxiv.org/pdf/2005.14638) \[J]. arXiv preprint arXiv:2005.14638.
@@ -2335,7 +2335,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 * [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * [google/fedjax](https://github.com/google/fedjax) ⭐ 272 | 🐛 12 | 🌐 Python | 📅 2026-09-29
 * [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) ⚠️ Archived
-* [epfml/disco](https://github.com/epfml/disco) ⭐ 190 | 🐛 66 | 🌐 TypeScript | 📅 2026-10-02
+* [epfml/disco](https://github.com/epfml/disco) ⭐ 190 | 🐛 68 | 🌐 TypeScript | 📅 2026-10-02
 * [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn) ⭐ 170 | 🐛 2 | 🌐 Python | 📅 2026-09-22
 * [jd-9n/9nfl](https://github.com/jd-9n/9nfl) ⭐ 113 | 🐛 7 | 🌐 Java | 📅 2025-05-16
 * [cyqclark/fedlearn-algo](https://github.com/cyqclark/fedlearn-algo) ⭐ 92 | 🐛 3 | 🌐 Python | 📅 2022-04-23
@@ -2357,7 +2357,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 * [shashigharti/federated-learning-on-raspberry-pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi) ⭐ 120 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-02-26
 * [LabeliaLabs/distributed-learning-contributivity](https://github.com/LabeliaLabs/distributed-learning-contributivity) ⭐ 57 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2023-03-25
 * [FELToken/federated-learning-token](https://github.com/FELToken/federated-learning-token) ⚠️ Archived
-* [wnma3mz/flearn](https://github.com/wnma3mz/flearn) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-03-29
+* [wnma3mz/flearn](https://github.com/wnma3mz/flearn) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-03-29
 * [papersdclub/Differentially\_private\_federated\_learning](https://github.com/papersdclub/Differentially_private_federated_learning) ⭐ 12 | 🐛 0 | 📅 2019-07-03
 * [mccorby](https://github.com/mccorby)
 * [dvc](https://dvc.org/) # unknown
@@ -2365,7 +2365,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Datasets && Benchmark
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,860 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,862 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
 * Caldas S, Duddu S M K, Wu P, et al. [Leaf: A benchmark for federated settings](https://arxiv.org/abs/1812.01097)\[J]. arXiv preprint arXiv:1812.01097, 2018. <br> \[code:[Github](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24;[website](https://leaf.cmu.edu/)];[code-pytorch](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) ⭐ 154 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
 * [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079);<br>[code](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 | 🐛 1 | 🌐 Python | 📅 2024-02-26
 * [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145);<br>[code](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 | 🐛 8 | 📅 2023-12-19
@@ -2703,4 +2703,4 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

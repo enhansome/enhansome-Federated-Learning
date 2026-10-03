@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "[7-] innovation-cat/Awesome-Federated-Machine-Learning",
-          "description": null,
+          "description": "innovation-cat/Awesome-Federated-Machine-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "[1-] chaoyanghe/Awesome-Federated-Learning",
-          "description": null,
+          "description": "chaoyanghe/Awesome-Federated-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -79,7 +79,7 @@
         {
           "node_type": "item",
           "title": "[3] lokinko/Federated-Learning",
-          "description": null,
+          "description": "lokinko/Federated-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -100,7 +100,7 @@
         {
           "node_type": "item",
           "title": "[2] weimingwill/awesome-federated-learning",
-          "description": null,
+          "description": "weimingwill/awesome-federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,7 +135,7 @@
         {
           "node_type": "item",
           "title": "[8-] ZeroWangZY/federated-learning",
-          "description": null,
+          "description": "ZeroWangZY/federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
         {
           "node_type": "item",
           "title": "[5-] poga/awesome-federated-learning",
-          "description": null,
+          "description": "poga/awesome-federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "[4-] tushar-semwal/awesome-federated-computing",
-          "description": null,
+          "description": "tushar-semwal/awesome-federated-computing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "[11]huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers",
-          "description": null,
+          "description": "huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -238,7 +238,7 @@
         {
           "node_type": "item",
           "title": "[6-] timmers/awesome-federated-learning",
-          "description": null,
+          "description": "timmers/awesome-federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -259,7 +259,7 @@
         {
           "node_type": "item",
           "title": "[10-] albarqouni/Federated-Learning-In-Healthcare",
-          "description": null,
+          "description": "albarqouni/Federated-Learning-In-Healthcare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "[9-] lee-man/federated-learning",
-          "description": null,
+          "description": "lee-man/federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -797,7 +797,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38860,
+            "stars": 38862,
             "topics": [
               "ai",
               "machine-learning",
@@ -1020,7 +1020,7 @@
         {
           "node_type": "item",
           "title": "PySyft",
-          "description": null,
+          "description": "OpenMined/PySyft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1051,7 +1051,7 @@
         {
           "node_type": "item",
           "title": "open-intelligence/federated-learning-chinese",
-          "description": null,
+          "description": "open-intelligence/federated-learning-chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1072,7 +1072,7 @@
         {
           "node_type": "item",
           "title": "[PPT]thormacy/Federated-Learning",
-          "description": null,
+          "description": "thormacy/Federated-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1099,7 +1099,7 @@
         {
           "node_type": "item",
           "title": "OpenMined/PySyft",
-          "description": null,
+          "description": "OpenMined/PySyft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1157,7 +1157,7 @@
         {
           "node_type": "item",
           "title": "FedML-AI/FedML",
-          "description": null,
+          "description": "FedML-AI/FedML",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1190,7 +1190,7 @@
         {
           "node_type": "item",
           "title": "tensorflow/federated",
-          "description": null,
+          "description": "google-parfait/tensorflow-federated",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1211,7 +1211,7 @@
         {
           "node_type": "item",
           "title": "facebookresearch/CrypTen",
-          "description": null,
+          "description": "facebookresearch/CrypTen",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1232,7 +1232,7 @@
         {
           "node_type": "item",
           "title": "alibaba/FederatedScope",
-          "description": null,
+          "description": "alibaba/FederatedScope",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1257,7 +1257,7 @@
         {
           "node_type": "item",
           "title": "bytedance/fedlearner",
-          "description": null,
+          "description": "bytedance/fedlearner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
         {
           "node_type": "item",
           "title": "intel/openfl",
-          "description": null,
+          "description": "securefederatedai/openfederatedlearning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1306,7 +1306,7 @@
         {
           "node_type": "item",
           "title": "SMILELab-FL/FedLab",
-          "description": null,
+          "description": "SMILELab-FL/FedLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1335,7 +1335,7 @@
         {
           "node_type": "item",
           "title": "LatticeX-Foundation/Rosetta",
-          "description": null,
+          "description": "LatticeX-Foundation/Rosetta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1363,7 +1363,7 @@
         {
           "node_type": "item",
           "title": "IBM/federated-learning-lib",
-          "description": null,
+          "description": "IBM/federated-learning-lib",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1384,7 +1384,7 @@
         {
           "node_type": "item",
           "title": "PaddlePaddle/PaddleFL",
-          "description": null,
+          "description": "PaddlePaddle/PaddleFL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1405,7 +1405,7 @@
         {
           "node_type": "item",
           "title": "google/fedjax",
-          "description": null,
+          "description": "google/fedjax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1429,7 +1429,7 @@
         {
           "node_type": "item",
           "title": "xaynetwork/xaynet",
-          "description": null,
+          "description": "xaynetwork/xaynet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1456,7 +1456,7 @@
         {
           "node_type": "item",
           "title": "epfml/disco",
-          "description": null,
+          "description": "epfml/disco",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1465,8 +1465,8 @@
             "id": 274528384,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:18:45Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-02T18:48:31Z",
+            "open_issues": 68,
             "owner": "epfml",
             "repo": "disco",
             "stars": 190,
@@ -1485,7 +1485,7 @@
         {
           "node_type": "item",
           "title": "scaleoutsystems/fedn",
-          "description": null,
+          "description": "scaleoutsystems/scaleout-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1517,7 +1517,7 @@
         {
           "node_type": "item",
           "title": "jd-9n/9nfl",
-          "description": null,
+          "description": "jd-opensource/9n-mpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1538,7 +1538,7 @@
         {
           "node_type": "item",
           "title": "cyqclark/fedlearn-algo",
-          "description": null,
+          "description": "cyqclark/fedlearn-algo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1559,7 +1559,7 @@
         {
           "node_type": "item",
           "title": "FederalLab/OpenFed",
-          "description": null,
+          "description": "FederalLab/OpenFed",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1589,7 +1589,7 @@
         {
           "node_type": "item",
           "title": "EasyFL-AI/EasyFL",
-          "description": null,
+          "description": "EasyFL-AI/EasyFL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1616,7 +1616,7 @@
         {
           "node_type": "item",
           "title": "shaoxiongji/federated-learning",
-          "description": null,
+          "description": "shaoxiongji/federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1641,7 +1641,7 @@
         {
           "node_type": "item",
           "title": "AshwinRJ/Federated-Learning-PyTorch",
-          "description": null,
+          "description": "AshwinRJ/Federated-Learning-PyTorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1668,7 +1668,7 @@
         {
           "node_type": "item",
           "title": "GalaxyLearning/GFL",
-          "description": null,
+          "description": "GalaxyLearning/GFL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1697,7 +1697,7 @@
         {
           "node_type": "item",
           "title": "OpenMined/PyVertical",
-          "description": null,
+          "description": "OpenMined/PyVertical",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1726,7 +1726,7 @@
         {
           "node_type": "item",
           "title": "osu-crypto/libPSI",
-          "description": null,
+          "description": "osu-crypto/libPSI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1747,7 +1747,7 @@
         {
           "node_type": "item",
           "title": "roxanneluo/Federated-Learning",
-          "description": null,
+          "description": "roxanneluo/Federated-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1768,7 +1768,7 @@
         {
           "node_type": "item",
           "title": "shashigharti/federated-learning-on-raspberry-pi",
-          "description": null,
+          "description": "shashigharti/federated-learning-on-raspberry-pi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1789,7 +1789,7 @@
         {
           "node_type": "item",
           "title": "LabeliaLabs/distributed-learning-contributivity",
-          "description": null,
+          "description": "LabeliaLabs/distributed-learning-contributivity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1818,7 +1818,7 @@
         {
           "node_type": "item",
           "title": "FELToken/federated-learning-token",
-          "description": null,
+          "description": "FELT-Labs/federated-learning-token",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1845,7 +1845,7 @@
         {
           "node_type": "item",
           "title": "wnma3mz/flearn",
-          "description": null,
+          "description": "wnma3mz/flearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1858,7 +1858,7 @@
             "open_issues": 0,
             "owner": "wnma3mz",
             "repo": "flearn",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "deep-learning",
               "ensemble-learning",
@@ -1873,7 +1873,7 @@
         {
           "node_type": "item",
           "title": "papersdclub/Differentially_private_federated_learning",
-          "description": null,
+          "description": "papersdclub/Differentially_private_federated_learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1900,7 +1900,7 @@
         {
           "node_type": "item",
           "title": "Federated iNaturalist/Landmarks",
-          "description": null,
+          "description": "google-research/google-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1913,7 +1913,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38860,
+            "stars": 38862,
             "topics": [
               "ai",
               "machine-learning",
@@ -2005,7 +2005,7 @@
         {
           "node_type": "item",
           "title": "SMILELab-FL/FedLab-benchmarks",
-          "description": null,
+          "description": "SMILELab-FL/FedLab-benchmarks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2084,7 +2084,7 @@
         {
           "node_type": "item",
           "title": "google TensorFlow",
-          "description": null,
+          "description": "google-parfait/tensorflow-federated",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2105,7 +2105,7 @@
         {
           "node_type": "item",
           "title": "bytedance",
-          "description": null,
+          "description": "bytedance/fedlearner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2126,7 +2126,7 @@
         {
           "node_type": "item",
           "title": "baidu PaddleFL",
-          "description": null,
+          "description": "PaddlePaddle/PaddleFL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2174,7 +2174,7 @@
         {
           "node_type": "item",
           "title": "JD",
-          "description": null,
+          "description": "jd-opensource/9n-mpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:39:53.861Z",
+    "last_updated": "2026-10-03T04:30:09.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
