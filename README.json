@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -698,7 +698,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4069,
+            "stars": 4070,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -794,10 +794,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:03:49Z",
-            "open_issues": 1996,
+            "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38868,
+            "stars": 38871,
             "topics": [
               "ai",
               "machine-learning",
@@ -861,7 +861,7 @@
                 "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4069,
+                "stars": 4070,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -1030,7 +1030,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:38:07Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10042,
@@ -1109,7 +1109,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:38:07Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10042,
@@ -1170,7 +1170,7 @@
             "open_issues": 147,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4069,
+            "stars": 4070,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -1270,7 +1270,7 @@
             "open_issues": 79,
             "owner": "bytedance",
             "repo": "fedlearner",
-            "stars": 900,
+            "stars": 901,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:38.025Z"
@@ -1910,10 +1910,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:03:49Z",
-            "open_issues": 1996,
+            "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38868,
+            "stars": 38871,
             "topics": [
               "ai",
               "machine-learning",
@@ -2118,7 +2118,7 @@
             "open_issues": 79,
             "owner": "bytedance",
             "repo": "fedlearner",
-            "stars": 900,
+            "stars": 901,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:38.025Z"
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:09:45.739Z",
+    "last_updated": "2026-10-04T15:48:48.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
