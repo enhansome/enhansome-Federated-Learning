@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "ZeroWangZY",
             "repo": "federated-learning",
-            "stars": 638,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:38.025Z"
@@ -793,11 +793,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:03:49Z",
+            "last_commit": "2026-10-08T17:38:14Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38880,
+            "stars": 38883,
             "topics": [
               "ai",
               "machine-learning",
@@ -1029,8 +1029,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T17:29:43Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-08T08:32:28Z",
+            "open_issues": 10,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10039,
@@ -1108,8 +1108,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T17:29:43Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-08T08:32:28Z",
+            "open_issues": 10,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10039,
@@ -1245,7 +1245,7 @@
             "open_issues": 55,
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1544,
+            "stars": 1545,
             "topics": [
               "federated-learning",
               "machine-learning",
@@ -1629,7 +1629,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1516,
+            "stars": 1515,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -1909,11 +1909,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:03:49Z",
+            "last_commit": "2026-10-08T17:38:14Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38880,
+            "stars": 38883,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:50:00.401Z",
+    "last_updated": "2026-10-08T17:53:29.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
