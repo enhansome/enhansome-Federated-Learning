@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -579,7 +579,7 @@
             "open_issues": 5,
             "owner": "AI-secure",
             "repo": "DBA",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "federated-learning"
             ]
@@ -737,7 +737,7 @@
             "open_issues": 21,
             "owner": "tensorflow",
             "repo": "gan",
-            "stars": 962,
+            "stars": 961,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:38.025Z"
@@ -794,10 +794,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:18:00Z",
-            "open_issues": 2005,
+            "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38920,
+            "stars": 38925,
             "topics": [
               "ai",
               "machine-learning",
@@ -1029,8 +1029,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T13:43:59Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-16T13:29:25Z",
+            "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10044,
@@ -1108,8 +1108,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T13:43:59Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-16T13:29:25Z",
+            "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10044,
@@ -1494,8 +1494,8 @@
             "id": 279604276,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T22:57:31Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-16T14:59:33Z",
+            "open_issues": 3,
             "owner": "scaleoutsystems",
             "repo": "scaleout-client",
             "stars": 170,
@@ -1910,10 +1910,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:18:00Z",
-            "open_issues": 2005,
+            "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38920,
+            "stars": 38925,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:36:55.995Z",
+    "last_updated": "2026-10-16T15:23:05.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
