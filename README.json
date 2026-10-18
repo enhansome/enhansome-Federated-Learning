@@ -698,7 +698,7 @@
             "open_issues": 148,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4070,
+            "stars": 4069,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -797,7 +797,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38927,
+            "stars": 38937,
             "topics": [
               "ai",
               "machine-learning",
@@ -861,7 +861,7 @@
                 "open_issues": 148,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4070,
+                "stars": 4069,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -1170,7 +1170,7 @@
             "open_issues": 148,
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4070,
+            "stars": 4069,
             "topics": [
               "ai-agent",
               "deep-learning",
@@ -1913,7 +1913,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38927,
+            "stars": 38937,
             "topics": [
               "ai",
               "machine-learning",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:13:29.261Z",
+    "last_updated": "2026-10-18T14:37:35.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "federated-learning",
