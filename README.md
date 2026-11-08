@@ -674,7 +674,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Computer Vision
 
-* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,126 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06]
+* \[CVPR]Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/pdf/2003.08082) \[J]. arXiv preprint arXiv:2003.08082.<br>\[code:[google-research/federated\_vision\_datasets](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,137 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06]
 * Tzu-Ming Harry Hsu, Hang Qi, Matthew Brown .[Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/pdf/1909.06335) \[J]. arXiv preprint arXiv:1909.06335.
 * Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang .[FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/pdf/2001.06202) \[J]. arXiv preprint arXiv:2001.06202.
 * Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel .[Federated Face Anti-spoofing](https://arxiv.org/pdf/2005.14638) \[J]. arXiv preprint arXiv:2005.14638.
@@ -2334,7 +2334,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 * [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * [google/fedjax](https://github.com/google/fedjax) ⭐ 272 | 🐛 13 | 🌐 Python | 📅 2026-10-05
 * [xaynetwork/xaynet](https://github.com/xaynetwork/xaynet) ⚠️ Archived
-* [epfml/disco](https://github.com/epfml/disco) ⭐ 191 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-05
+* [epfml/disco](https://github.com/epfml/disco) ⭐ 191 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-08
 * [scaleoutsystems/fedn](https://github.com/scaleoutsystems/fedn) ⭐ 170 | 🐛 6 | 🌐 Python | 📅 2026-11-06
 * [jd-9n/9nfl](https://github.com/jd-9n/9nfl) ⭐ 113 | 🐛 7 | 🌐 Java | 📅 2025-05-16
 * [cyqclark/fedlearn-algo](https://github.com/cyqclark/fedlearn-algo) ⭐ 92 | 🐛 3 | 🌐 Python | 📅 2022-04-23
@@ -2365,7 +2365,7 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ## Datasets && Benchmark
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,126 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,137 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
 * Caldas S, Duddu S M K, Wu P, et al. [Leaf: A benchmark for federated settings](https://arxiv.org/abs/1812.01097)\[J]. arXiv preprint arXiv:1812.01097, 2018. <br> \[code:[Github](https://github.com/TalwalkarLab/leaf) ⭐ 909 | 🐛 36 | 🌐 Python | 📅 2023-03-24;[website](https://leaf.cmu.edu/)];[code-pytorch](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) ⭐ 153 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-01-29
 * [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079);<br>[code](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 | 🐛 1 | 🌐 Python | 📅 2024-02-26
 * [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145);<br>[code](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 | 🐛 8 | 📅 2023-12-19
@@ -2703,4 +2703,4 @@ ps:LM:Linear Models; DM:Decision Trees; NN:Neural Networks; CM:Cryptographic Met
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
